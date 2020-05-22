@@ -1,0 +1,19 @@
+3 Round Stones, Inc.|Data/Technology|United States|17|2010
+CitySourced|Governance|United States|37|2007
+Forrester Research|Research & Consulting|United States|3643|1983
+Lawdragon|Business & Legal Services|United States|29|2005
+Pave|Finance & Investment|United States|8|2012
+SpotCrime|Governance|United States|44|2007
+Gun & Bae|Lifestyle/Consumer|Korea|7|2015
+jin hak|Education|Korea|139|1965
+MEDIAWILL|Housing/Real Estate|Korea|6|2015
+plantmobile|Data/Technology|Korea|5|2015
+SuperApps|Data/Technology|Korea|9|2014
+ytndmb|Advertising|Korea|188|2000
+Abison Burke|Research & Consulting|Mexico|153|2002
+Aspiria|Finance & Investment|Mexico|6|2013
+Centro Mexicano para la Filantropía (CEMEFI)|Business Services|Mexico|33|1988
+El Narval Mundial|Research & Consulting|Mexico|7|2007
+INNKU|Data/Technology|Mexico|37|2008
+Moody's Analytics|Finance & Investment|Mexico|2294|1904
+SkyAlert|Telecommunication|Mexico|42|2011

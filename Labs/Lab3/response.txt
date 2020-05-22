@@ -1,0 +1,15 @@
+a) O(n**2)
+b) O(n)
+c) O(nlogn)
+d) O(n**2)
+e) O(n**8)
+f) O(n)
+g) O(n)
+
+
+g - slowest
+b/f
+c
+a
+d
+e - fastest
