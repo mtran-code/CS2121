@@ -1,2 +1,4 @@
 # CS2121
-Computer Science 2121 with Ali Khatouni
+Assignments for Computer Science 2121 with Prof. Ali Khatouni
+
+Contains past assignments uploaded as of May 2020, course was taken in Winter 2019.
